@@ -1,1 +1,18 @@
 # countp
+
+https://blog.truthlabs.com/beacon-tracking-with-node-js-and-raspberry-pi-794afa880318
+
+https://github.com/mschmulen/tracking-bluetooth-ibeacons-with-node
+
+https://github.com/ukBaz/ble_beacon
+
+https://github.com/Jason-Gew/BLE-Beacon-Tracking-System
+
+https://vimeo.com/114711115
+
+https://vimeo.com/114583701
+
+
+https://www.makeuseof.com/tag/build-diy-ibeacon-raspberry-pi/
+
+https://dzone.com/articles/automatic-detection-ibeacon-0
