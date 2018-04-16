@@ -16,3 +16,11 @@ https://vimeo.com/114583701
 https://www.makeuseof.com/tag/build-diy-ibeacon-raspberry-pi/
 
 https://dzone.com/articles/automatic-detection-ibeacon-0
+
+
+https://github.com/jpias/beacon-pfilter-simulation/wiki
+
+http://www.warski.org/blog/2014/04/inverse-beacon-positioning/
+
+https://softwaremill.com/beacon-location-service/
+https://www.youtube.com/watch?v=at_UCO_cWAk
