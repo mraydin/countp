@@ -31,3 +31,7 @@ https://www.hackster.io/mjrobot/automatic-vision-object-tracking-5575c4
 https://github.com/Mjrovai/OpenCV-Object-Face-Tracking/tree/master/Object_Tracking
 http://aishack.in/tutorials/tracking-colored-objects-opencv/
 https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
+
+
+
+https://www.alatortsev.com/2018/04/27/installing-opencv-on-raspberry-pi-3-b/
