@@ -24,3 +24,10 @@ http://www.warski.org/blog/2014/04/inverse-beacon-positioning/
 
 https://softwaremill.com/beacon-location-service/
 https://www.youtube.com/watch?v=at_UCO_cWAk
+
+
+
+https://www.hackster.io/mjrobot/automatic-vision-object-tracking-5575c4
+https://github.com/Mjrovai/OpenCV-Object-Face-Tracking/tree/master/Object_Tracking
+http://aishack.in/tutorials/tracking-colored-objects-opencv/
+https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
