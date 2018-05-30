@@ -35,3 +35,5 @@ https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
 
 
 https://www.alatortsev.com/2018/04/27/installing-opencv-on-raspberry-pi-3-b/
+
+https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
