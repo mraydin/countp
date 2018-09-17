@@ -43,4 +43,4 @@ https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
 https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/
 
 https://codepen.io/jelmerdemaat/pen/sBqfF
-
+https://codepen.io/jasonadelia/pen/DnrAe
