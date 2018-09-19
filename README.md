@@ -47,6 +47,7 @@ https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and
 
 https://codepen.io/jelmerdemaat/pen/sBqfF
 https://codepen.io/jasonadelia/pen/DnrAe
+https://stackoverflow.com/questions/35593686/how-to-display-an-image-only-if-a-js-variable-is-true
 
 
 https://codepen.io/cfenzo/pen/jEGQGm
