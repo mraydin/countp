@@ -39,6 +39,9 @@ https://www.alatortsev.com/2018/04/27/installing-opencv-on-raspberry-pi-3-b/
 https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
 
 
+
+
+
 https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
 https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/
 
@@ -51,6 +54,9 @@ https://codepen.io/cfenzo/pen/jEGQGm
 https://www.instructables.com/id/Raspberry-Pi-Web-Server-Wireless-Access-Point-WAP/
 https://www.instructables.com/id/Raspberry-Pi-WAP-FIle-server/
 https://www.youtube.com/watch?v=XgcDipALFOc
+
+https://thepi.io/how-to-set-up-a-web-server-on-the-raspberry-pi/
+https://www.raspberrypi.org/documentation/remote-access/web-server/nginx.md
 
 
 
