@@ -47,3 +47,10 @@ https://codepen.io/jasonadelia/pen/DnrAe
 
 
 https://codepen.io/cfenzo/pen/jEGQGm
+
+https://www.instructables.com/id/Raspberry-Pi-Web-Server-Wireless-Access-Point-WAP/
+https://www.instructables.com/id/Raspberry-Pi-WAP-FIle-server/
+https://www.youtube.com/watch?v=XgcDipALFOc
+
+
+
