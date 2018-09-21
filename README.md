@@ -76,4 +76,9 @@ https://stackoverflow.com/questions/36864206/sqlstatehy000-1698-access-denied-fo
 A list of Font Awesome icons and their CSS content values
 http://astronautweb.co/snippet/font-awesome/
 
-
+Use ExpressJS to Deliver HTML Files
+https://scotch.io/tutorials/use-expressjs-to-deliver-html-files
+Serving static files in Express
+https://expressjs.com/en/starter/static-files.html
+Express-js can't GET my static files, why?
+https://stackoverflow.com/questions/5924072/express-js-cant-get-my-static-files-why
