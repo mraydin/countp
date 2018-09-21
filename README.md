@@ -46,11 +46,15 @@ https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
 https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/
 
 https://codepen.io/jelmerdemaat/pen/sBqfF
+CSS Background Grid Lines
 https://codepen.io/jasonadelia/pen/DnrAe
+Both display: none and visibility: hidden are similar however visibility takes up space.
 https://stackoverflow.com/questions/35593686/how-to-display-an-image-only-if-a-js-variable-is-true
 
-
+CSS ruler (background gradient pattern)
 https://codepen.io/cfenzo/pen/jEGQGm
+CSS3 Patterns Gallery
+http://lea.verou.me/css3patterns/
 
 https://www.instructables.com/id/Raspberry-Pi-Web-Server-Wireless-Access-Point-WAP/
 https://www.instructables.com/id/Raspberry-Pi-WAP-FIle-server/
@@ -58,6 +62,15 @@ https://www.youtube.com/watch?v=XgcDipALFOc
 
 https://thepi.io/how-to-set-up-a-web-server-on-the-raspberry-pi/
 https://www.raspberrypi.org/documentation/remote-access/web-server/nginx.md
+
+https://stackoverflow.com/questions/36864206/sqlstatehy000-1698-access-denied-for-user-rootlocalhost-tried-everythi
+
+I have to press enter on startup Raspberry Pi
+https://raspberrypi.stackexchange.com/questions/79159/i-have-to-press-enter-on-startup-raspberry-pi
+
+
+SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'. Tried everything
+https://stackoverflow.com/questions/36864206/sqlstatehy000-1698-access-denied-for-user-rootlocalhost-tried-everythi
 
 
 
