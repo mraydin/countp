@@ -73,4 +73,7 @@ SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'. Tried everythi
 https://stackoverflow.com/questions/36864206/sqlstatehy000-1698-access-denied-for-user-rootlocalhost-tried-everythi
 
 
+A list of Font Awesome icons and their CSS content values
+http://astronautweb.co/snippet/font-awesome/
+
 
