@@ -53,6 +53,7 @@ https://stackoverflow.com/questions/35593686/how-to-display-an-image-only-if-a-j
 
 CSS ruler (background gradient pattern)
 https://codepen.io/cfenzo/pen/jEGQGm
+
 CSS3 Patterns Gallery
 http://lea.verou.me/css3patterns/
 
