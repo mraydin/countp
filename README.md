@@ -62,7 +62,10 @@ https://www.instructables.com/id/Raspberry-Pi-Web-Server-Wireless-Access-Point-W
 https://www.instructables.com/id/Raspberry-Pi-WAP-FIle-server/
 https://www.youtube.com/watch?v=XgcDipALFOc
 
+How to set up a web server on the Raspberry Pi
 https://thepi.io/how-to-set-up-a-web-server-on-the-raspberry-pi/
+
+SETTING UP AN NGINX WEB SERVER ON A RASPBERRY PI</br>
 https://www.raspberrypi.org/documentation/remote-access/web-server/nginx.md
 
 Turn your Raspberry Pi 3 into a Wi-Fi Hotspot
