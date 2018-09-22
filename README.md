@@ -50,7 +50,7 @@ https://codepen.io/jelmerdemaat/pen/sBqfF
 CSS Background Grid Lines</br>
 https://codepen.io/jasonadelia/pen/DnrAe
 
-Both display: none and visibility: hidden are similar however visibility takes up space.
+Both display: none and visibility: hidden are similar however visibility takes up space.</br>
 https://stackoverflow.com/questions/35593686/how-to-display-an-image-only-if-a-js-variable-is-true
 
 CSS ruler (background gradient pattern)</br>
@@ -63,7 +63,7 @@ https://www.instructables.com/id/Raspberry-Pi-Web-Server-Wireless-Access-Point-W
 https://www.instructables.com/id/Raspberry-Pi-WAP-FIle-server/
 https://www.youtube.com/watch?v=XgcDipALFOc
 
-How to set up a web server on the Raspberry Pi
+How to set up a web server on the Raspberry Pi</br>
 https://thepi.io/how-to-set-up-a-web-server-on-the-raspberry-pi/
 
 SETTING UP AN NGINX WEB SERVER ON A RASPBERRY PI</br>
