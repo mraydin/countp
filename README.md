@@ -70,6 +70,7 @@ https://www.youtube.com/watch?v=XgcDipALFOc
 
 
 I have to press enter on startup Raspberry Pi
+
 https://raspberrypi.stackexchange.com/questions/79159/i-have-to-press-enter-on-startup-raspberry-pi
 
 
