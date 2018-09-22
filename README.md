@@ -65,7 +65,9 @@ https://www.youtube.com/watch?v=XgcDipALFOc
 https://thepi.io/how-to-set-up-a-web-server-on-the-raspberry-pi/
 https://www.raspberrypi.org/documentation/remote-access/web-server/nginx.md
 
-https://stackoverflow.com/questions/36864206/sqlstatehy000-1698-access-denied-for-user-rootlocalhost-tried-everythi
+Turn your Raspberry Pi 3 into a Wi-Fi Hotspot
+https://www.youtube.com/watch?v=XgcDipALFOc
+
 
 I have to press enter on startup Raspberry Pi
 https://raspberrypi.stackexchange.com/questions/79159/i-have-to-press-enter-on-startup-raspberry-pi
@@ -79,10 +81,11 @@ A list of Font Awesome icons and their CSS content values
 http://astronautweb.co/snippet/font-awesome/
 
 Use ExpressJS to Deliver HTML Files
-
 https://scotch.io/tutorials/use-expressjs-to-deliver-html-files
+
 Serving static files in Express
 https://expressjs.com/en/starter/static-files.html
+
 Express-js can't GET my static files, why?
 https://stackoverflow.com/questions/5924072/express-js-cant-get-my-static-files-why
 
