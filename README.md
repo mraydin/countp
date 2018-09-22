@@ -48,6 +48,7 @@ https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and
 https://codepen.io/jelmerdemaat/pen/sBqfF
 CSS Background Grid Lines
 https://codepen.io/jasonadelia/pen/DnrAe
+
 Both display: none and visibility: hidden are similar however visibility takes up space.
 https://stackoverflow.com/questions/35593686/how-to-display-an-image-only-if-a-js-variable-is-true
 
