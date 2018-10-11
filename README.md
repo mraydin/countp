@@ -82,6 +82,9 @@ https://raspberrypi.stackexchange.com/questions/79159/i-have-to-press-enter-on-s
 SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'. Tried everything</br>
 https://stackoverflow.com/questions/36864206/sqlstatehy000-1698-access-denied-for-user-rootlocalhost-tried-everythi
 
+Nginx failing to reload - how to track down why?
+https://askubuntu.com/questions/443775/nginx-failing-to-reload-how-to-track-down-why
+
 
 A list of Font Awesome icons and their CSS content values</br>
 http://astronautweb.co/snippet/font-awesome/
