@@ -73,7 +73,10 @@ Turn your Raspberry Pi 3 into a Wi-Fi Hotspot</br>
 https://www.youtube.com/watch?v=XgcDipALFOc
 
 Create a Wi-Fi hotspot in less than 10 minutes with Pi Raspberry!</br>
-https://howtoraspberrypi.com/create-a-wi-fi-hotspot-in-less-than-10-minutes-with-pi-raspberry/
+https://howtoraspberrypi.com/create-a-wi-fi-hotspot-in-less-than-10-minutes-with-pi-raspberry/</br>
+
+How To Install and Secure phpMyAdmin with Nginx on an Ubuntu 14.04 Server</br>
+https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-with-nginx-on-an-ubuntu-14-04-server</br>
 
 I have to press enter on startup Raspberry Pi</br>
 https://raspberrypi.stackexchange.com/questions/79159/i-have-to-press-enter-on-startup-raspberry-pi
