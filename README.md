@@ -84,6 +84,9 @@ https://raspberrypi.stackexchange.com/questions/79159/i-have-to-press-enter-on-s
 Using Redis with Python</br>
 https://redislabs.com/lp/python-redis/</br>
 
+Redis on a Raspberry Pi</br>
+https://github.com/cjus/hydra-cluster/wiki/Redis-on-a-Raspberry-Pi</br>
+
 SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'. Tried everything</br>
 https://stackoverflow.com/questions/36864206/sqlstatehy000-1698-access-denied-for-user-rootlocalhost-tried-everythi</br>
 
