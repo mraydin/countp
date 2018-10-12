@@ -79,8 +79,10 @@ How To Install and Secure phpMyAdmin with Nginx on an Ubuntu 14.04 Server</br>
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-with-nginx-on-an-ubuntu-14-04-server</br>
 
 I have to press enter on startup Raspberry Pi</br>
-https://raspberrypi.stackexchange.com/questions/79159/i-have-to-press-enter-on-startup-raspberry-pi
+https://raspberrypi.stackexchange.com/questions/79159/i-have-to-press-enter-on-startup-raspberry-pi</br>
 
+Using Redis with Python</br>
+https://redislabs.com/lp/python-redis/</br>
 
 SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'. Tried everything</br>
 https://stackoverflow.com/questions/36864206/sqlstatehy000-1698-access-denied-for-user-rootlocalhost-tried-everythi</br>
