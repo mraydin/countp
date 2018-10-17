@@ -63,6 +63,9 @@ https://www.instructables.com/id/Raspberry-Pi-Web-Server-Wireless-Access-Point-W
 https://www.instructables.com/id/Raspberry-Pi-WAP-FIle-server/
 https://www.youtube.com/watch?v=XgcDipALFOc
 
+How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 14.04 LTS</br>
+https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-14-04-lts</br>
+
 How to set up a web server on the Raspberry Pi</br>
 https://thepi.io/how-to-set-up-a-web-server-on-the-raspberry-pi/
 
@@ -77,6 +80,9 @@ https://howtoraspberrypi.com/create-a-wi-fi-hotspot-in-less-than-10-minutes-with
 
 How To Install and Secure phpMyAdmin with Nginx on an Ubuntu 14.04 Server</br>
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-with-nginx-on-an-ubuntu-14-04-server</br>
+
+How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 16.04</br>
+https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04</br>
 
 I have to press enter on startup Raspberry Pi</br>
 https://raspberrypi.stackexchange.com/questions/79159/i-have-to-press-enter-on-startup-raspberry-pi</br>
@@ -111,6 +117,10 @@ https://www.howtogeek.com/197947/how-to-install-python-on-windows/</br>
 
 <h2>15 Useful Commands Every Raspberry Pi User Should Know</h2>
 https://www.makeuseof.com/tag/15-useful-commands-every-raspberry-pi-user-should-know/</br>
+
+<h2>PHP MySQL: Delete Data</h2>
+http://www.mysqltutorial.org/php-mysql-delete/</br>
+<hr>
 
 
 
