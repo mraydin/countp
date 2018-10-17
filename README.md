@@ -104,5 +104,13 @@ Serving static files in Express</br>
 https://expressjs.com/en/starter/static-files.html
 
 Express-js can't GET my static files, why?</br>
-https://stackoverflow.com/questions/5924072/express-js-cant-get-my-static-files-why
+https://stackoverflow.com/questions/5924072/express-js-cant-get-my-static-files-why</br>
+
+<h2>How to Install Python on Windows</h2></br>
+https://www.howtogeek.com/197947/how-to-install-python-on-windows/</br>
+
+<h2>15 Useful Commands Every Raspberry Pi User Should Know</h2></br>
+https://www.makeuseof.com/tag/15-useful-commands-every-raspberry-pi-user-should-know/</br>
+
+
 
