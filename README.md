@@ -140,5 +140,8 @@ https://github.com/anandsinghkunwar/pedestrian-counter</br>
 <h3>Stop program after a period of time [closed]</h3>
 https://raspberrypi.stackexchange.com/questions/15613/stop-program-after-a-period-of-time</h3>
 
+<h3>OpenCV People Counter</h3>
+https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/#comment-474149
+
 
 
