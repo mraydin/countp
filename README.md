@@ -125,6 +125,13 @@ http://www.mysqltutorial.org/php-mysql-delete/</br>
 <h3>Playing with Raspberry Pi: Door Sensor Fun</h3>
 https://medium.com/conectric-networks/playing-with-raspberry-pi-door-sensor-fun-ab89ad499964</br>
 
+<h3>How to Backup a Raspberry Pi SD Card guide</h3>
+https://eltechs.com/raspberry-pi-backup/</br>
 
+<h3>how to record video using webcam in pi sd card</h3>
+https://lb.raspberrypi.org/forums/viewtopic.php?t=144223</br>
+
+<h3>Home surveillance and motion detection with the Raspberry Pi, Python, OpenCV, and Dropbox</h3>
+https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/</br>
 
 
