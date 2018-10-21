@@ -122,5 +122,9 @@ https://www.makeuseof.com/tag/15-useful-commands-every-raspberry-pi-user-should-
 http://www.mysqltutorial.org/php-mysql-delete/</br>
 <hr>
 
+<h3>Playing with Raspberry Pi: Door Sensor Fun</h3></br>
+https://medium.com/conectric-networks/playing-with-raspberry-pi-door-sensor-fun-ab89ad499964</br>
+
+
 
 
