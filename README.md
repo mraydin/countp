@@ -134,4 +134,9 @@ https://lb.raspberrypi.org/forums/viewtopic.php?t=144223</br>
 <h3>Home surveillance and motion detection with the Raspberry Pi, Python, OpenCV, and Dropbox</h3>
 https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/</br>
 
+<h3>Pedestrian Counting Using OpenCV 3.1 in Python</h3>
+https://github.com/anandsinghkunwar/pedestrian-counter</br>
+
+
+
 
