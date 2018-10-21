@@ -137,6 +137,8 @@ https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-
 <h3>Pedestrian Counting Using OpenCV 3.1 in Python</h3>
 https://github.com/anandsinghkunwar/pedestrian-counter</br>
 
+<h3>Stop program after a period of time [closed]</h3>
+https://raspberrypi.stackexchange.com/questions/15613/stop-program-after-a-period-of-time</h3>
 
 
 
