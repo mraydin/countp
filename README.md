@@ -138,10 +138,17 @@ https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-
 https://github.com/anandsinghkunwar/pedestrian-counter</br>
 
 <h3>Stop program after a period of time [closed]</h3>
-https://raspberrypi.stackexchange.com/questions/15613/stop-program-after-a-period-of-time</h3>
+https://raspberrypi.stackexchange.com/questions/15613/stop-program-after-a-period-of-time</br>
 
 <h3>OpenCV People Counter</h3>
-https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/#comment-474149
+https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/#comment-474149</br>
+
+<h3>fswebcam take picture</h3>
+fswebcam -r 640x480 -d /dev/video1 test.jpg</br>
+
+<h3>ffmpeg record video</h3>
+ffmpeg -f v4l2 -framerate 25 -video_size 640x480 -i /dev/video1 -t 300 output.mpg</br>
+
 
 
 
