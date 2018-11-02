@@ -66,10 +66,10 @@ https://www.youtube.com/watch?v=XgcDipALFOc</br>
 <h1>How to install a web server on the Raspberry Pi (Apache + PHP + MySQL)</h1>
 https://howtoraspberrypi.com/how-to-install-web-server-raspberry-pi-lamp/ </br>
 
-<p>Nginx – create our first virtual host </p>
+<h1>Nginx – create our first virtual host </h1>
 https://tkacz.pro/nginx-create-our-first-virtual-host/ </br>
 
-<p>RasPi Camera Board and Motion</p>
+<h1>RasPi Camera Board and Motion</h1>
 sudo modprobe bcm2835-v4l2 </br>
 sudo nano /etc/modules </br>
 enter bcm2835-v4l2 </br>
