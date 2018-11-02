@@ -61,7 +61,14 @@ http://lea.verou.me/css3patterns/
 
 https://www.instructables.com/id/Raspberry-Pi-Web-Server-Wireless-Access-Point-WAP/
 https://www.instructables.com/id/Raspberry-Pi-WAP-FIle-server/
-https://www.youtube.com/watch?v=XgcDipALFOc
+https://www.youtube.com/watch?v=XgcDipALFOc</br>
+
+<h1>How to install a web server on the Raspberry Pi (Apache + PHP + MySQL)</h1>
+https://howtoraspberrypi.com/how-to-install-web-server-raspberry-pi-lamp/ </br>
+
+<p>Nginx – create our first virtual host </p>
+https://tkacz.pro/nginx-create-our-first-virtual-host/ </br>
+
 
 How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 14.04 LTS</br>
 https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-14-04-lts</br>
