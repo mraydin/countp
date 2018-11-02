@@ -69,6 +69,13 @@ https://howtoraspberrypi.com/how-to-install-web-server-raspberry-pi-lamp/ </br>
 <p>Nginx – create our first virtual host </p>
 https://tkacz.pro/nginx-create-our-first-virtual-host/ </br>
 
+<p>RasPi Camera Board and Motion</p>
+sudo modprobe bcm2835-v4l2 </br>
+sudo nano /etc/modules </br>
+enter bcm2835-v4l2 </br>
+exist and save the fle </br>
+sudo reboot </br>
+
 
 How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 14.04 LTS</br>
 https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-14-04-lts</br>
